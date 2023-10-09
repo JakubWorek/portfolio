@@ -10,11 +10,12 @@ const NavBar = () => {
     { id: 1, link: 'home' },
     { id: 2, link: 'about' },
     { id: 3, link: 'projects' },
-    { id: 4, link: 'contact' },
+    { id: 4, link: 'skills' },
+    { id: 5, link: 'contact' },
   ]
 
   return (
-    <div className="flex justify-between items-center w-full h-20 text-white fixed px-4 bg-black">
+    <div className="flex justify-between items-center w-full h-20 text-white px-4 bg-black">
       <div>
         <h1 className="text-4xl text-emerald-400 font-sign px-4">Jakub Worek</h1>
       </div>
