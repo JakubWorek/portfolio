@@ -1,4 +1,6 @@
 import About from "./components/About";
+import ContactForm from "./components/ContactForm";
+import Footer from "./components/Footer";
 import Home from "./components/Home";
 import NavBar from "./components/NavBar";
 import Projects from "./components/Projects";
@@ -13,6 +15,8 @@ function App() {
       <About />
       <Projects />
       <Skills />
+      <ContactForm />
+      <Footer />
       <SocialLinks />
     </div>
   );
