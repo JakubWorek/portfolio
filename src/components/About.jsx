@@ -16,7 +16,7 @@ const About = () => {
           sculpting the digital world to cater to every click and scroll. His journey is an odyssey of problem-solving, 
           a quest to optimize, innovate, and ultimately, revolutionize the web. With every line of code 
           he writes, he's architecting a future where the virtual and the real seamlessly intertwine. 
-          The screen is his canvas, and the web is his masterpiece in the making.
+          The screen is his canvas, and the web is his masterpiece in the making. Yep, that's me.
         </p>
       </div>
     </div>
