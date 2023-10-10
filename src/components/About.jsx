@@ -7,7 +7,7 @@ const About = () => {
       className="h-screen w-full bg-gradient-to-b from-gray-800 to-black text-white"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center h-full">
-        <h1 className="text-4xl font-bold inline border-b border-gray-500 text-emerald-200"> About </h1>
+        <h1 className="text-4xl font-bold inline border-b border-gray-500 text-emerald-200"> About me </h1>
         <p className="text-xl mt-20">
           A second-year computer science student with a penchant for web development. 
           His mind is a canvas, and lines of code are the strokes that bring his creativity to life. 

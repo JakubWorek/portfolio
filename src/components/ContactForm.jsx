@@ -12,6 +12,7 @@ const ContactForm = () => {
               type="text"
               name="name"
               placeholder="Enter your name"
+              required = "true"
               className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none" />
             <input 
               type="email"
@@ -22,6 +23,7 @@ const ContactForm = () => {
             <textarea 
               name="message"
               placeholder="Enter your message"
+              required = "true"
               rows="10"
               className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none" />
             <button type="submit" className="bg-gradient-to-r from-emerald-500 to-green-500 px-6 py-3 my-2 rounded-md hover:scale-110 duration-300">
