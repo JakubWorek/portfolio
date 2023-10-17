@@ -19,6 +19,7 @@ const ContactForm = () => {
               name="email"
               placeholder="Enter your email"
               pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}$"
+              required = "true"
               className="my-4 p-2 bg-transparent border-2 rounded-md text-white focus:outline-none" />
             <textarea 
               name="message"
