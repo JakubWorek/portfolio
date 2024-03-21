@@ -41,7 +41,7 @@ const Skills = () => {
     {
       id: 7,
       name: 'Tailwind CSS',
-      src: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg',
+      src: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg',
       style: 'shadow-sky-400',
     },
     {

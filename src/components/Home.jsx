@@ -19,10 +19,12 @@ const Home = () => {
             Aspiring Web Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            My name is Jakub and I'm 19 years old Computer Science student.
+            My name is Jakub and I'm 20 years old Computer Science student.
             I'm interested in web applications development and want to become full-stack developer in the future.
             Currently, I love to work on web application using technologies like
             React, Tailwind, Next.js and MongoDB.
+            <br />
+            Also I'm interested in learning new technologies and programming languages.
           </p>
           <div>
             <Link

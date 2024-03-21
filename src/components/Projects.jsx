@@ -2,12 +2,14 @@ import React from 'react';
 import piwodoro from '../assets/images/piwodoro.png';
 import store_front from '../assets/images/store_front.png';
 import store_server from '../assets/images/store_server.png';
+import evolution_simulator from '../assets/images/evolution_simulator.png';
 
 const Projects = () => {
   const projects = [
-    {id: 1, src: piwodoro, link: 'https://github.com/JakubWorek/piwodoro'},
-    {id: 2, src: store_front, link: 'https://github.com/JakubWorek/store_front'},
-    {id: 3, src: store_server, link: 'https://github.com/JakubWorek/store_server'},
+    {id: 1, src: evolution_simulator, link: 'https://github.com/JakubWorek/evolution_simulator'},
+    {id: 2, src: piwodoro, link: 'https://github.com/JakubWorek/piwodoro'},
+    {id: 3, src: store_front, link: 'https://github.com/JakubWorek/store_front'},
+    {id: 4, src: store_server, link: 'https://github.com/JakubWorek/store_server'},
   ];
 
   return (
