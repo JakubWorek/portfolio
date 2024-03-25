@@ -3,9 +3,11 @@ import piwodoro from '../assets/images/piwodoro.png';
 import store_front from '../assets/images/store_front.png';
 import store_server from '../assets/images/store_server.png';
 import evolution_simulator from '../assets/images/evolution_simulator.png';
+import ecommerce from '../assets/images/ecommerce.png';
 
 const Projects = () => {
   const projects = [
+    {id: 0, src: ecommerce, link: 'https://github.com/JakubWorek/ecommerce_store'},
     {id: 1, src: evolution_simulator, link: 'https://github.com/JakubWorek/evolution_simulator'},
     {id: 2, src: piwodoro, link: 'https://github.com/JakubWorek/piwodoro'},
     {id: 3, src: store_front, link: 'https://github.com/JakubWorek/store_front'},

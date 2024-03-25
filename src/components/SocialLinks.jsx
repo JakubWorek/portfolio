@@ -12,7 +12,7 @@ const SocialLinks = () => {
           <Linkedin />
         </>
       ),
-      href: "https://www.linkedin.com/in/kuba-worek-531611173/",
+      href: "https://www.linkedin.com/in/jakub-worek-531611173/",
       style: "rounded-tr-md",
     },
     {
