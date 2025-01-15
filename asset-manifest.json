@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b0bb9e77.css",
-    "main.js": "/portfolio/static/js/main.4ee2dcd2.js",
+    "main.js": "/portfolio/static/js/main.373d41d4.js",
     "static/media/piwodoro.png": "/portfolio/static/media/piwodoro.8a61a8b9c844a038efa3.png",
     "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.8b5ed56cd3005004cc3b.png",
     "static/media/store_front.png": "/portfolio/static/media/store_front.d37a4127a9d687426f07.png",
@@ -10,10 +10,10 @@
     "static/media/myimage.jpg": "/portfolio/static/media/myimage.ebade06be40afa0949f0.jpg",
     "index.html": "/portfolio/index.html",
     "main.b0bb9e77.css.map": "/portfolio/static/css/main.b0bb9e77.css.map",
-    "main.4ee2dcd2.js.map": "/portfolio/static/js/main.4ee2dcd2.js.map"
+    "main.373d41d4.js.map": "/portfolio/static/js/main.373d41d4.js.map"
   },
   "entrypoints": [
     "static/css/main.b0bb9e77.css",
-    "static/js/main.4ee2dcd2.js"
+    "static/js/main.373d41d4.js"
   ]
 }
