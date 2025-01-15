@@ -9,7 +9,7 @@ const About = () => {
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center h-full">
         <h1 className="text-4xl font-bold inline border-b border-gray-500 text-emerald-200"> About me </h1>
         <p className="text-xl mt-20">
-          A second-year computer science student with a penchant for web development. 
+          A third-year computer science student with a penchant for web development. 
           His mind is a canvas, and lines of code are the strokes that bring his creativity to life. 
           He navigates the digital realm like a seasoned explorer, delving into the intricacies of 
           front-end elegance and back-end prowess. With each project, he sculpts the user experience, 
